@@ -173,4 +173,4 @@ GET http://<EC2_IP>/image/<filename>
 - Nginx 리버스 프록시 설정 완료
 - Docker Compose 기반 서비스 구성 완료
 
-
+## jenkins test
